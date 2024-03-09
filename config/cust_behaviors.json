@@ -1,0 +1,10 @@
+[
+	{
+		"code": "&tag",
+		"name": "&tag",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
