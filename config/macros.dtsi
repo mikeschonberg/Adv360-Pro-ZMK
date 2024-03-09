@@ -2,25 +2,25 @@ macro_macro_ws_4: macro_macro_ws_4{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_ws_4";
 #binding-cells = <0>;
-bindings = <&kp RCTRL>, <&kp F4>, <&tog 4>;
+bindings = <&kp RC(F4)>, <&tog 4>;
 };
 macro_macro_ws_3: macro_macro_ws_3{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_ws_3";
 #binding-cells = <0>;
-bindings = <&kp RCTRL>, <&kp F3>, <&tog 4>;
+bindings = <&kp RC(F3)>, <&tog 4>;
 };
 macro_macro_ws_2: macro_macro_ws_2{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_ws_2";
 #binding-cells = <0>;
-bindings = <&kp RCTRL>, <&kp F2>, <&tog 4>;
+bindings = <&kp RC(F2)>, <&tog 4>;
 };
 macro_macro_ws_1: macro_macro_ws_1{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_ws_1";
 #binding-cells = <0>;
-bindings = <&kp RCTRL>, <&kp F1>, <&tog 4>;
+bindings = <&kp LC(F1)>, <&tog 4>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
