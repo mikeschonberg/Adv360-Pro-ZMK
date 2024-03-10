@@ -94,7 +94,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans                  &trans                  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans                  &trans                  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans                  &trans                  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans                  &trans                  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &kp F8                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp F7              &kp LS(F8)                  &trans  &trans  &trans
             >;
         };
 
