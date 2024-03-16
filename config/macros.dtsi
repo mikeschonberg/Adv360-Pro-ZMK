@@ -2,7 +2,7 @@ macro_macro_clion_dbg: macro_macro_clion_dbg{
 compatible = "zmk,behavior-macro";
 label = "macro_macro_clion_dbg";
 #binding-cells = <0>;
-bindings = <&kp LS(F8)>, <&tog 5>;
+bindings = <&kp LS(F9)>, <&tog 5>;
 };
 macro_macro_clion_bld: macro_macro_clion_bld{
 compatible = "zmk,behavior-macro";
